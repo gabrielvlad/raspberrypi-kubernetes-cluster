@@ -1,15 +1,6 @@
 # Hardware documentation raspberrypi-kubernetes-cluster repository
 
-# Setting Up a Raspberry Pi Kubernetes Cluster
-
-The Raspberry Pi Kubernetes Cluster is a cost-effective and efficient way to set up a Kubernetes cluster. There are two ways to set up the cluster for the hardware part:
-
-1. Boot from SD cards with a switch acting as the IP assigner and internet provider.
-2. Main node provides boot over the network and has a storage HDD (or better) as the image boot loader. The main node also acts as a DHCP server, so it assigns IPs for the worker nodes and provides internet.
-
-I explain each method more in-depth below:
-
-# Documentation for Raspberry Pi Kubernetes Cluster
+Setting Up hardware infrastructure for a Raspberry Pi Kubernetes Cluster
 
 The Raspberry Pi Kubernetes Cluster is a cost-effective and efficient way to set up a Kubernetes cluster. There are two ways to set up the cluster for the hardware part:
 
@@ -47,7 +38,7 @@ _Underneath Diagram Text_:
 **Cons**: Setting up this method can be more complex and potentially less resilient, because a failure in the main node could prevent other nodes from booting. It also puts more load on the main node, which needs to serve the boot image and handle DHCP requests in addition to running its own workloads.
 
 Summary:
-Requires more time invested in the initial setup but it offers more control over the setup and teaches you more about how everything connects(for me I consider this quite valuable)
+Requires more time invested in the initial setup but it offers more control over the setup and teaches you more about how everything connects (for me I consider this quite valuable)
 
 ## Conclusion for the Two Methods
 
