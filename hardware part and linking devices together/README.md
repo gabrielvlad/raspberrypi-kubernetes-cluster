@@ -1,4 +1,4 @@
-# Hardware documentation raspberrypi-kubernetes-cluster repository
+# Hardware documentation part raspberrypi-kubernetes-cluster repository
 
 Setting Up hardware infrastructure for a Raspberry Pi Kubernetes Cluster
 
@@ -43,3 +43,8 @@ Requires more time invested in the initial setup but it offers more control over
 ## Conclusion for the Two Methods
 
 Regardless of the hardware setup method, once the nodes are up and running, you can install and configure Kubernetes in the same way. Kubernetes doesn't care how the nodes boot or get their IP addresses, as long as they can communicate with each other over the network.
+
+References:
+
+How to build a cluster official [raspberrypi.com](http://raspberrypi.com) documentation:
+https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/
