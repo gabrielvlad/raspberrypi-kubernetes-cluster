@@ -47,4 +47,5 @@ Regardless of the hardware setup method, once the nodes are up and running, you 
 References:
 
 How to build a cluster official [raspberrypi.com](http://raspberrypi.com) documentation:
-https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/
+
+- [https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/)
