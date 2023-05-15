@@ -1,4 +1,4 @@
-# Hardware part and linking devices together
+# Hardware documentation part and linking devices together
 
 Setting Up hardware infrastructure for a Raspberry Pi Kubernetes Cluster
 
