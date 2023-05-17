@@ -2,6 +2,8 @@
 
 _Diagram Placeholder_
 
+_Underneath Diagram Text_:
+
 What will be installed as the software part:
 
 1. k3s as it is the Kubernetes distribution -must be
