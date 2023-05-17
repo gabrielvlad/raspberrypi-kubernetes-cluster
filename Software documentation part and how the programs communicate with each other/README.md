@@ -1,5 +1,7 @@
 # Software documentation part and how the programs communicate with each other
 
+_Diagram Placeholder_
+
 What will be installed as the software part:
 
 1. k3s as it is the Kubernetes distribution -must be
