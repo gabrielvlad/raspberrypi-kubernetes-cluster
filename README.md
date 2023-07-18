@@ -10,5 +10,3 @@ To do:
 - [ ] Write initial software documentation part describing the software part with all the programs it uses and how it communicates between them
 - [ ] Create reference section for documentation where I put sources
 -
--
--
